@@ -8,7 +8,7 @@ respectivamente validado para letras y numeros fuera de ese rango
 -Y tambien esta dentro de un buble infinito hasta que el usuario
 decida terminar el programa
 
-# Para el archivo Contador de palabras
+# Para el archivo Contador de Palabras
 -El programa te pregunta preguntas de tus pensamientos valga la redundancia
 y lo que hara es convertirlo a un array y con el metodo len() contar las palabras
 que existan y ademas esas palabras las registra en un txt
@@ -21,3 +21,7 @@ decida terminar el programa
 informacion de todo lo que preguntaste
 -Y tambien esta dentro de un buble infinito hasta que el usuario
 decida terminar el programa
+
+# Para el archivo de Acronimos
+-El programa te solicia ingresar el significado completo de una organizacion o
+de un concepto y te devuelve el acronimo
