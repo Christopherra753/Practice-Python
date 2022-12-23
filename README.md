@@ -14,3 +14,10 @@ y lo que hara es convertirlo a un array y con el metodo len() contar las palabra
 que existan y ademas esas palabras las registra en un txt
 -Y tambien esta dentro de un buble infinito hasta que el usuario
 decida terminar el programa
+
+# Para el archivo de Biografias
+
+-El programa te pregunta por tus datos personales y al final te muestra la
+informacion de todo lo que preguntaste
+-Y tambien esta dentro de un buble infinito hasta que el usuario
+decida terminar el programa
