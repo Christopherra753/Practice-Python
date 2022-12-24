@@ -31,3 +31,8 @@ de un concepto y te devuelve el acronimo
 o tijera y la computadora escoge una al azar de las antes mencionadas y se muestra al ganador
 -Y tambien esta dentro de un buble infinito hasta que el usuario
 decida terminar el programa
+
+# Numero oculto
+-El programa te pide ingresar un numero entre el 1-50 y tratar de adivinar el
+numero oculto y se rindiera tendria que escribir la letra x para terminar el
+programa
