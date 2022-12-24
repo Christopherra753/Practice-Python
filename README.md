@@ -25,3 +25,9 @@ decida terminar el programa
 # Para el archivo de Acronimos
 -El programa te solicia ingresar el significado completo de una organizacion o
 de un concepto y te devuelve el acronimo
+
+# Para el archivo Piedra, Papel y Tijera
+-El programa es simple, pide ingresar una opcion de las 3 que te permite piedra, papel
+o tijera y la computadora escoge una al azar de las antes mencionadas y se muestra al ganador
+-Y tambien esta dentro de un buble infinito hasta que el usuario
+decida terminar el programa
