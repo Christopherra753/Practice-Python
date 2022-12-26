@@ -36,3 +36,7 @@ decida terminar el programa
 -El programa te pide ingresar un numero entre el 1-50 y tratar de adivinar el
 numero oculto y se rindiera tendria que escribir la letra x para terminar el
 programa
+
+# Palindromo
+-En el programa te solicita ingresar 4 palabras y verificara si cada palabra introducida
+es palindroma o no
