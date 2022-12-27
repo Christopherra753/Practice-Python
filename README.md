@@ -40,3 +40,7 @@ programa
 # Palindromo
 -En el programa te solicita ingresar 4 palabras y verificara si cada palabra introducida
 es palindroma o no
+
+# Cumpleaños
+-En el programa te pide ingresar la fecha de nacimiento y te calcula cuantos dias faltan
+para tu proximo cumpleaños.
